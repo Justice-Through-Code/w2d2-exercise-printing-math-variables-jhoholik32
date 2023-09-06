@@ -6,26 +6,26 @@ def convert_100_to_celsius():
     # Print 'float' if it is a float or 'int' if it is an int
     # How do you know? Write a comment below your code explaining how you know which it is
 
- convert_100_to_celsius()
-celsius_100 = ((100-32)*(5/9))
-print(celsius_100)
-print('float')
+#  convert_100_to_celsius()
+ celsius_100 = ((100-32)*(5/9))
+ print(celsius_100)
+ print('float')
 # Its a float because it has a decimal point
 
 def convert_0_to_celsius():
     # Convert a temperature of 0 degrees fahrenheit to celsius
     # Save this to a variable called celsius_0, and use print() to print out the value
 
-  convert_0_to_celsius()
-celsius_0 =((0-32)*(5/9))
-print(celsius_0)
+    # convert_0_to_celsius()
+ celsius_0 =((0-32)*(5/9))
+ print(celsius_0)
 
 def convert_34_2_to_celsius():
     # Convert a temperature of 34.2 degrees fahrenheit to celsius
     # Do this one all in one print statement without saving any variables
     
- convert_34_2_to_celsius()
-print((34.2-32)*(5/9))
+#  convert_34_2_to_celsius()
+ print((34.2-32)*(5/9))
 
 # Now, can you convert back?
 
@@ -33,11 +33,11 @@ print((34.2-32)*(5/9))
 def convert_5_to_fahrenheit():
     # Convert a temperature of 5 degrees celsius to fahrenheit and print it out
 
- convert_5_to_fahrenheit()
-print((5*9/5)+32)
+# convert_5_to_fahrenheit()
+ print((5*9/5)+32)
 def hotter_temp():
     # What is hotter, a temperature of 30.2 degrees celsius, or a temperature of 85.1 degrees fahrenheit?
     # Print out the hotter temp: '30.2 degrees celsius' or '85.1 degrees fahrenheit', respectively
 
- hotter_temp()
-print('3.2 degrees celsuis')
+# hotter_temp()
+ print('30.2 degrees celsuis')
