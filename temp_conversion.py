@@ -2,7 +2,7 @@
 def convert_100_to_celsius():
     celcius_100 = ((100-32)*(5/9))
     print(celcius_100)
-    print(float)
+    print('float')
     
 # its float because it has a decimal point
     # Convert a temperature of 100 degrees fahrenheit to celsius
